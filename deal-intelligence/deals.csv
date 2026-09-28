@@ -1,0 +1,6 @@
+deal_id,company,industry,deal_value,stage,decision_maker,customer_needs,customer_concerns,competitors,last_interaction
+D001,Acme Corporation,Manufacturing,2500000,Negotiation,VP Procurement,"Reduce manual reporting; ERP integration","Pricing; implementation time","Vendor X; Vendor Y","Requested revised proposal and asked about 60-day implementation"
+D002,TechNova,SaaS,850000,Proposal,CTO,"Cloud migration; automation","Security; pricing","CloudPro; DataStack","Requested security documentation and revised pricing"
+D003,GlobalRetail,Retail,4200000,Discovery,CIO,"Inventory optimization; analytics","Integration complexity","RetailTech; MarketSoft","Asked for product demonstration and integration details"
+D004,HealthPlus,Healthcare,1800000,Negotiation,CFO,"Cost reduction; workflow automation","Compliance; implementation time","MedSoft; HealthCloud","Requested compliance documents and implementation timeline"
+D005,FinServe,Finance,3200000,Proposal,Head of Operations,"Process automation; reporting","Data security; pricing","BankTech; FinOpsPro","Requested a final proposal and security review"

@@ -1,0 +1,261 @@
+[
+  {
+    "deal_id": "D001",
+    "customer": "Acme Corporation",
+    "industry": "Manufacturing",
+    "deal_value": "$2.5M",
+    "stage": "Negotiation",
+    "decision_maker": "VP of Procurement",
+    "customer_needs": [
+      "Reduce manual reporting",
+      "Integrate with existing ERP"
+    ],
+    "customer_concerns": [
+      "Pricing",
+      "60-day implementation timeline"
+    ],
+    "competitors": [
+      "Vendor X",
+      "Vendor Y"
+    ],
+    "buying_signals": [
+      "Requested revised proposal",
+      "Asked about 60-day implementation"
+    ],
+    "risks": [
+      "Pricing pressure",
+      "Implementation timeline",
+      "Competitive pressure"
+    ],
+    "last_interaction": "Customer requested a revised proposal and asked whether implementation could be completed within 60 days.",
+    "commercial_terms": "10% discount offered if contract is signed before December 1, 2026."
+  },
+
+  {
+    "deal_id": "D002",
+    "customer": "TechNova",
+    "industry": "Software / SaaS",
+    "deal_value": "$850K",
+    "stage": "Proposal",
+    "decision_maker": "Chief Technology Officer",
+    "customer_needs": [
+      "Cloud migration",
+      "Real-time analytics",
+      "Scalable infrastructure"
+    ],
+    "customer_concerns": [
+      "Implementation cost",
+      "Data migration risk"
+    ],
+    "competitors": [
+      "CloudCore",
+      "DataSphere"
+    ],
+    "buying_signals": [
+      "Completed technical demonstration",
+      "Requested implementation plan"
+    ],
+    "risks": [
+      "Competitor has lower implementation cost",
+      "Data migration complexity"
+    ],
+    "last_interaction": "CTO requested a detailed migration plan and technical architecture document.",
+    "commercial_terms": "Customer requested a proposal with phased payment options."
+  },
+
+  {
+    "deal_id": "D003",
+    "customer": "GreenGrid Energy",
+    "industry": "Renewable Energy",
+    "deal_value": "$1.8M",
+    "stage": "Discovery",
+    "decision_maker": "Director of Operations",
+    "customer_needs": [
+      "Predictive maintenance",
+      "Energy production monitoring",
+      "Operational analytics"
+    ],
+    "customer_concerns": [
+      "Budget approval",
+      "Integration with existing sensors"
+    ],
+    "competitors": [
+      "EnergyIQ",
+      "PowerAnalytics"
+    ],
+    "buying_signals": [
+      "Shared current infrastructure details",
+      "Requested proof of concept"
+    ],
+    "risks": [
+      "Budget not yet approved",
+      "Integration complexity"
+    ],
+    "last_interaction": "Operations Director requested a proof-of-concept proposal.",
+    "commercial_terms": "Customer prefers milestone-based payments."
+  },
+
+  {
+    "deal_id": "D004",
+    "customer": "MedCore Systems",
+    "industry": "Healthcare",
+    "deal_value": "$1.2M",
+    "stage": "Negotiation",
+    "decision_maker": "Chief Information Officer",
+    "customer_needs": [
+      "Patient data analytics",
+      "Secure data integration",
+      "Compliance reporting"
+    ],
+    "customer_concerns": [
+      "Data security",
+      "Regulatory compliance",
+      "Implementation risk"
+    ],
+    "competitors": [
+      "HealthData Pro",
+      "MediTech Solutions"
+    ],
+    "buying_signals": [
+      "Security team completed initial review",
+      "CIO requested final proposal"
+    ],
+    "risks": [
+      "Security approval",
+      "Compliance requirements",
+      "Long procurement cycle"
+    ],
+    "last_interaction": "Security team requested additional documentation about data protection.",
+    "commercial_terms": "Customer requested a three-year contract with annual payment."
+  },
+
+  {
+    "deal_id": "D005",
+    "customer": "RetailMax",
+    "industry": "Retail",
+    "deal_value": "$650K",
+    "stage": "Evaluation",
+    "decision_maker": "Head of Digital Transformation",
+    "customer_needs": [
+      "Customer analytics",
+      "Inventory forecasting",
+      "Personalized recommendations"
+    ],
+    "customer_concerns": [
+      "Implementation time",
+      "Expected ROI"
+    ],
+    "competitors": [
+      "RetailAI",
+      "ShopSense"
+    ],
+    "buying_signals": [
+      "Completed product demo",
+      "Requested ROI calculation"
+    ],
+    "risks": [
+      "Unclear ROI",
+      "Implementation timeline"
+    ],
+    "last_interaction": "Customer requested a business case showing expected ROI within the first year.",
+    "commercial_terms": "Customer requested a pilot before signing the full contract."
+  },
+
+  {
+    "deal_id": "D006",
+    "customer": "FinEdge",
+    "industry": "Financial Services",
+    "deal_value": "$3.4M",
+    "stage": "Proposal",
+    "decision_maker": "Chief Digital Officer",
+    "customer_needs": [
+      "Fraud detection",
+      "Real-time transaction monitoring",
+      "Risk analytics"
+    ],
+    "customer_concerns": [
+      "Security",
+      "Model accuracy",
+      "Total cost"
+    ],
+    "competitors": [
+      "SecureAI",
+      "RiskVision"
+    ],
+    "buying_signals": [
+      "Completed technical evaluation",
+      "Requested pricing for enterprise deployment"
+    ],
+    "risks": [
+      "Strict security review",
+      "High procurement requirements",
+      "Competitive pressure"
+    ],
+    "last_interaction": "CDO requested enterprise pricing and security documentation.",
+    "commercial_terms": "Customer is evaluating a three-year enterprise agreement."
+  },
+
+  {
+    "deal_id": "D007",
+    "customer": "LogiTrans",
+    "industry": "Logistics",
+    "deal_value": "$950K",
+    "stage": "Negotiation",
+    "decision_maker": "VP of Supply Chain",
+    "customer_needs": [
+      "Route optimization",
+      "Fleet monitoring",
+      "Delivery prediction"
+    ],
+    "customer_concerns": [
+      "ERP integration",
+      "Implementation cost"
+    ],
+    "competitors": [
+      "RouteIQ",
+      "FleetVision"
+    ],
+    "buying_signals": [
+      "Requested integration workshop",
+      "Provided sample logistics data"
+    ],
+    "risks": [
+      "Integration complexity",
+      "Price sensitivity"
+    ],
+    "last_interaction": "VP of Supply Chain requested an integration workshop with the technical team.",
+    "commercial_terms": "Customer requested a discount for a multi-year agreement."
+  },
+
+  {
+    "deal_id": "D008",
+    "customer": "EduSphere",
+    "industry": "Education Technology",
+    "deal_value": "$420K",
+    "stage": "Discovery",
+    "decision_maker": "Chief Academic Officer",
+    "customer_needs": [
+      "Student analytics",
+      "Personalized learning",
+      "Academic performance monitoring"
+    ],
+    "customer_concerns": [
+      "Limited budget",
+      "Ease of deployment"
+    ],
+    "competitors": [
+      "LearnAI",
+      "CampusCloud"
+    ],
+    "buying_signals": [
+      "Requested product demonstration",
+      "Invited sales team to present to leadership"
+    ],
+    "risks": [
+      "Limited budget",
+      "Early stage of evaluation"
+    ],
+    "last_interaction": "Chief Academic Officer invited the sales team to present the solution to the leadership committee.",
+    "commercial_terms": "Customer prefers an annual subscription with a low initial commitment."
+  }
+]
